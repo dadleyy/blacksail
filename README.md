@@ -1,3 +1,3 @@
 # blacksails
 
-a [Sails](http://sailsjs.org) application
+An empty [Sails](http://sailsjs.org) application.
